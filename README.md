@@ -4,7 +4,7 @@
 
 Fondamentalmente è saper **sincronizzare il nostro lavoro locale con un repository remoto**.
 
-*comandi principali* :
+*comandi principali* :\
 `git remote -v`--> visualizza i server remoti collegati al nostro repository
 
 **Aggiungere o rimuovere un repository remoto**\
